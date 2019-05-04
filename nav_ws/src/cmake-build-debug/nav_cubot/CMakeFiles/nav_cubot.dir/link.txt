@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -g  -shared -Wl,-soname,libnav_cubot.so -o ../devel/lib/libnav_cubot.so CMakeFiles/nav_cubot.dir/src/Communication_Func.cpp.o CMakeFiles/nav_cubot.dir/src/middle_filter.cpp.o 

@@ -1,0 +1,8 @@
+prefix=/home/ethan/nav_ws/devel
+
+Name: nav_cubot
+Description: Description of nav_cubot
+Version: 0.0.0
+Cflags: -I/home/ethan/nav_ws/src/nav_cubot/include
+Libs: -L/home/ethan/nav_ws/devel/lib 
+Requires: geometry_msgs roscpp std_msgs tf nav_msgs

@@ -1,0 +1,8 @@
+prefix=/home/zhouyi/ROS/catkin_ws1/install
+
+Name: image_rotate
+Description: Description of image_rotate
+Version: 1.12.23
+Cflags: -I/home/zhouyi/ROS/catkin_ws1/install/include
+Libs: -L/home/zhouyi/ROS/catkin_ws1/install/lib 
+Requires: 

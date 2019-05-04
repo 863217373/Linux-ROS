@@ -1,0 +1,2 @@
+nav_cubot:rplidar_ros
+-DCATKIN_DEVEL_PREFIX=/home/ethan/nav_ws/devel -DCMAKE_INSTALL_PREFIX=/home/ethan/nav_ws/install -G Unix Makefiles

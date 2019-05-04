@@ -1,0 +1,8 @@
+prefix=/usr/local
+
+Name: nav_cubot
+Description: Description of nav_cubot
+Version: 0.0.0
+Cflags: -I/usr/local/include
+Libs: -L/usr/local/lib 
+Requires: geometry_msgs roscpp std_msgs tf nav_msgs
